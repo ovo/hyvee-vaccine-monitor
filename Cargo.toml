@@ -1,5 +1,5 @@
 [package]
-name = "hyvee-covid"
+name = "hyvee-vaccine-monitor"
 version = "0.1.0"
 authors = ["ovo <peyton.arbuckle@gmail.com>"]
 edition = "2018"
